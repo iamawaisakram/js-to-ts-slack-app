@@ -9,19 +9,6 @@ This course is intended to help those already somewhat familiar with TypeScript 
 
 ## Project setup
 
-First, you should ensure you have [your ssh keys working with GitHub](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). You can verify this by running
-
-```sh
-ssh git@github.com
-```
-
-and getting a response like
-
-```sh
-Hi mike-north! You've successfully authenticated, but GitHub does not provide shell access.
-Connection to github.com closed.
-```
-
 ### Tools you MUST have installed
 
 Next, make sure you have installed [volta](http://volta.sh/) which ensures you have the right version of node and yarn for this project
@@ -31,16 +18,6 @@ We also strongly recommend the use of [Visual Studio Code](https://code.visualst
 ### Clone
 
 Next, checkout a working copy of this project
-
-```sh
-git clone git@github.com:mike-north/professional-ts
-```
-
-enter the directory you just created
-
-```sh
-cd professional-ts
-```
 
 ### Install dependencies
 
