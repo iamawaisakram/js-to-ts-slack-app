@@ -1,7 +1,6 @@
 import * as React from 'react';
 import {
   BrowserRouter as Router,
-  match,
   Route,
   Switch,
 } from 'react-router-dom';
